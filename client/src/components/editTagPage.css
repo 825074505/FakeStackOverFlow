@@ -1,0 +1,15 @@
+.errMsg{
+    color : red;
+    display: none;
+
+
+}
+
+
+#saveButton{
+    background-color: #165A92;
+    color: white;
+
+    width: 15%;
+
+}

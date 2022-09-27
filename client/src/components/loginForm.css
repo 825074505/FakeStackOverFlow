@@ -1,0 +1,20 @@
+.errMsg{
+    color : red;
+    display: none;
+
+
+}
+
+
+.loginForm{
+
+    display: flex;
+
+    justify-content: center;
+}
+
+#LoginButton{
+    background-color: #165A92;
+    color:white;
+    width: 50%;
+}

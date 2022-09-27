@@ -1,0 +1,21 @@
+.tagLink{
+
+    display: block;
+    border-style: solid ;
+    color :#0281E8;
+    height: 75px;
+    margin: 100px;
+    border-color: black;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+.tagButtons{
+    text-align: center;
+    margin: 100px;
+    
+}
+
+
+

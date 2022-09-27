@@ -1,0 +1,30 @@
+.errMsg{
+    color : red;
+    display: none;
+
+
+}
+
+
+#new_Question_Title{
+    width: 500px;
+    padding: 20px 20px;
+}
+
+#new_Question_Summary{
+    width: 500px;
+    padding: 40px 40px;
+}
+
+#new_Question_Text{
+    width: 500px;
+    padding: 50px 50px;
+}
+
+#saveButton{
+    background-color: #165A92;
+    color: white;
+
+    width: 15%;
+
+}

@@ -1,0 +1,20 @@
+.RegisterForm{
+    display: flex;
+
+    justify-content: center;
+}
+
+.errMsg{
+    color : red;
+    display: none;
+
+
+}
+
+
+#RegisterButton{
+    background-color: #165A92;
+    color:white;
+    width: 50%;
+
+}

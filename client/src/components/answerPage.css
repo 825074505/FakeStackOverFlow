@@ -1,0 +1,38 @@
+#table{
+    width: 100%;
+    overflow: scroll;
+}
+
+
+.col1{
+    width: 25%;
+}
+
+.col2{
+    width: 50%;
+
+}
+
+.col3{
+    width: 25%;
+    
+}
+
+
+#footer{
+    text-align: center;
+}
+
+
+
+#ansButton{
+
+    width: 15%;
+    font-size: 20px;
+    padding: 10px;
+    background-color: #165A92;
+    color: white;
+    border-radius: 8px 8px;
+    
+    
+}

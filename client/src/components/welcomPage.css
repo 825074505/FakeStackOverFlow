@@ -1,0 +1,32 @@
+
+.Title{
+    display: flex;
+    justify-content: center;
+}
+
+.LoginButton{
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.RegisterButton{
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.GuestButton{
+    display: flex;
+    justify-content: center;
+}
+
+.WelcomeButton{
+
+    margin: 10px;
+    background-color: #165A92;
+    color: white;
+}
+

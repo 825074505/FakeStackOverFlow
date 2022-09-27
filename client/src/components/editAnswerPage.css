@@ -1,0 +1,19 @@
+.errMsg{
+    color : red;
+    display: none;
+
+
+}
+
+#Answer_Text{
+    width: 500px;
+    padding: 50px 50px;
+}
+
+#saveButton{
+    background-color: #165A92;
+    color: white;
+
+    width: 15%;
+
+}
